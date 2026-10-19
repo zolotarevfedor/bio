@@ -7,5 +7,13 @@ redirect_from:
   - /about.html
 ---
 
+… HERE
+
 Research interests: 
 ======
+* 1
+* 2
+* 3
+
+
+Thanks for visiting!

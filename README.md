@@ -11,7 +11,8 @@
 | Главная страница (клик по имени) | `_pages/about.md` |
 | Research | `_pages/publications.md` |
 | Teaching | `_pages/teaching.html` |
-| CV | `_pages/cv.md` |
+| Education | `_pages/education.md` |
+| Projects | `_pages/projects.md` |
 | Пункты верхнего меню | `_data/navigation.yml` |
 
 ## Как добавить фото

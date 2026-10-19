@@ -25,16 +25,16 @@ author:
   name             : "Fedor Zolotarev"
   pronouns         : # example: "she/her"
   bio              : # e.g. "PhD Candidate"
-  location         : # e.g. "City, Country"
-  employer         : # e.g. "University"
+  location         : "Budapest, Hungary"
+  employer         : "University of Pecs"
   uri              : # URL
-  email            : # e.g. "name@example.com"
+  email            : "fedor.zolotarev.ekb@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=6FojSZsAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0000-0002-8789-0856"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # URL
+  linkedin         : "fedor-zolotarev-637b7a202" # profile name only, without https://www.linkedin.com/in/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

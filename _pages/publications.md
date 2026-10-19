@@ -5,8 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Published**
+**Articles**
 
-**Work in progress**
+Text-text-text
 
-**Book chapters**
+**Books (co-author)**
+
+Text-text-text
+
+**Conference attendance**
+
+Text-text-text
