@@ -32,6 +32,6 @@ February 2019 – August 2021
 
 References
 ======
-* **Pálné Kovács Ilona**, PhD, Professor Emeretia University of Pecs, Institute of Regional Research, Transdanubian Scientific Department (Hungary), <palne.kovacs.ilona@krtk.elte.hu>
+* **Pálné Kovács Ilona**, PhD, Professor Emerita, University of Pécs, Institute of Regional Research, Transdanubian Scientific Department (Hungary), <palne.kovacs.ilona@krtk.elte.hu>
 * **Maria Lagutina**, Doctor of Political Science, Professor of Saint Petersburg State University (Russia), <m.lagutina@spbu.ru>
 * **Ekaterina Mikhaylenko**, Doctor of Political Science, Professor of Ural Federal University (Russia), <earslanova@urfu.ru>
