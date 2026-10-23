@@ -11,13 +11,14 @@ I’m a Ph.D. Candidate in International Relations at the University of Pécs in
 
 My research interests cover the subnational dimension of global politics and role of non-state actors toward changes of international orders. In addition, the nuclear energy domain occupies a strong share in my investigations.  Specifically, I am interested in the network approach of International Relations, Paradiplomacy, and Comparative Regionalism with the focus on the geopolitical dimension.
 
-Research interests: 
+Research interests 
 ======
 * Comparative Regionalism
 * Paradiplomacy Studies
 * Nuclear Energy
 * Geopolitics
 * Non-state Actors
+
 
 
 Thanks for visiting!
