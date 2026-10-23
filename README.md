@@ -13,6 +13,7 @@
 | Teaching | `_pages/teaching.html` |
 | Education | `_pages/education.md` |
 | Projects | `_pages/projects.md` |
+| Honors & Awards | `_pages/awards.md` |
 | Пункты верхнего меню | `_data/navigation.yml` |
 
 ## Как добавить фото
