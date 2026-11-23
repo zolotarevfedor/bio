@@ -10,6 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
+* PhD Candidate in International Relations, University of Pécs — Pécs, Hungary, 2026
 * PhD Candidate in International Relations, Saint Petersburg State University — Saint Petersburg, Russia, 2024
 * Master of Arts (MA) in International Relations, Ural Federal University — Yekaterinburg, Russia, 2021
 * Bachelor of Arts (BA) in International Relations, Ural Federal University — Yekaterinburg, Russia, 2019
